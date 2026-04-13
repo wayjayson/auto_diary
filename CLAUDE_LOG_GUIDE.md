@@ -2,7 +2,7 @@
 
 ## 日志文件位置
 - **默认路径**: `C:\Users\<用户名>\.claude\history.jsonl`
-- **当前用户路径**: `C:\Users\10548\.claude\history.jsonl`
+
 
 ## 文件格式
 日志文件是JSON Lines格式（`.jsonl`），每行一个JSON对象，包含一次对话记录。
@@ -13,7 +13,7 @@
   "display": "/model",
   "pastedContents": {},
   "timestamp": 1774278547952,
-  "project": "C:\\Users\\10548",
+  "project": "C:\\Users",
   "sessionId": "8774ecda-5721-4603-b137-49394bbafd69"
 }
 ```
