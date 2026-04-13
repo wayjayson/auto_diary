@@ -1,0 +1,11 @@
+{
+  "obsidian_vault_path": "D:\\桌面\\学习\\obsidian\\learning",
+  "diary_folder_name": "日记",
+  "auto_generate_time": "00:00",
+  "claude_history_path": "C:\\Users\\10548\\.claude\\history.jsonl",
+  "enable_auto_generate": true,
+  "api_key_env_var": "OPENAI_API_KEY",
+  "model": "deepseek-chat",
+  "max_retries": 3,
+  "retry_delay_seconds": 1
+}
